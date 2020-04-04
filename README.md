@@ -1,4 +1,4 @@
-Goland server handling redirects
+Golang server handling redirects
 ================================
 
 I created this package as part of a "gophersize" - exercises to learn Golang. Below is the original instruction, as can be found at https://github.com/gophercises/urlshort .
