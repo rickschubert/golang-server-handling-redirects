@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/gophersizes/urlshort/students/rickschubert/handler"
+	"github.com/rickschubert/golang-server-handling-redirects/handler"
 )
 
 func main() {
